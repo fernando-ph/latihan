@@ -5,8 +5,8 @@ import (
 )
 
 func main() {
-	//ngprint string
-	fmt.Println("gaol")
-	fmt.Println(len("gaol"))
+	//ngebuat variabel dengan var
+	var Buat = "sayang"
+	fmt.Println(Buat)
 
 }
