@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	//ngprint angka
-	fmt.Println(1)
+	//ngprint bolean
+	fmt.Println(true)
 
 }
