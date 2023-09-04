@@ -32,13 +32,15 @@ func main() {
 	mobile2 := 23
 	fmt.Println(mobile2)
 	//bisa mendeklarasikan variable dengan memasukan nya ke dalam kurung
-	//harus bisa dibuat dnegan tipe data yang sama
-	//harus bisa dipakai
 	var (
 		namaDepan     = "s"
 		namaBelakakng = "b"
+		kelas         = 12
+		bool          = true
 	)
 	fmt.Println(namaDepan)
 	fmt.Println(namaBelakakng)
+	fmt.Println(kelas)
+	fmt.Println(bool)
 
 }
