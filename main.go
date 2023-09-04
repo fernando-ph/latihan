@@ -5,7 +5,8 @@ import (
 )
 
 func main() {
-	//ngprint bolean
-	fmt.Println(true)
+	//ngprint string
+	fmt.Println("gaol")
+	fmt.Println(len("gaol"))
 
 }
