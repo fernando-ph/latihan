@@ -12,9 +12,8 @@ func main() {
 	var buat = 23
 	fmt.Println(buat)
 	//deklarasi var dengan tipe data
-	var age int
-	age = 345
-	fmt.Println(age)
+
+	
 	//deklarasi var dengan titik dua
 	//titik dua itu bisa dideklarasi kan tanpa tipe data dengan contoh dibawah ini
 	//tapi tidak bisa dideklarasikan 2 kali dan juga menganti tipe datanya dengan lain cth dibawah ini
@@ -42,5 +41,15 @@ func main() {
 	fmt.Println(namaBelakakng)
 	fmt.Println(kelas)
 	fmt.Println(bool)
-
+abcv := 90
+fmt.Println(abcv)
+p := 2
+c := 3
+fmt.Println(p+c)
+d:=90
+z:=90
+f:=d+z
+fmt.Println(f)
+  bn :=3
+ fmt.Println(bn)
 }
